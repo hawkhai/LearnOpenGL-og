@@ -1,3 +1,13 @@
 # ignores following folders
 bin/
 build/
+CMakeFiles
+CMakeCache.txt
+*.sln
+*.vcxproj
+*.user
+*.filters
+*.cmake
+/configuration/root_directory.h
+.vs
+Debug
